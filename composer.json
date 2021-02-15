@@ -1,7 +1,19 @@
 {
+    "name": "whilebox/weather",
+    "description": "一个天气SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "whilebox",
+            "email": "while_box@163.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Whilebox\\Weather\\": "src"
         }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
     }
 }
