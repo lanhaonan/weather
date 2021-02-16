@@ -3,6 +3,8 @@
 
 <p align="center">:rainbow: 基于高德开放平台的 PHP 天气信息组件。</p>
 
+[![Build Status](https://travis-ci.org/lanhaonan/weather.svg?branch=master)](https://travis-ci.org/lanhaonan/weather.svg?branch=master)
+
 ## 说明
 
 参考[《PHP 扩展包实战教程 - 从入门到发布》](https://learnku.com/courses/creating-package) 进行学习开发的项目
